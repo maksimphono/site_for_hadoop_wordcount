@@ -9,5 +9,6 @@ export default defineConfig({
                 numbers_as_words : "./numbers_as_words.html"
             }
         }
-    }
+    },
+    base : "/hadoop_wordcount/"
 });
