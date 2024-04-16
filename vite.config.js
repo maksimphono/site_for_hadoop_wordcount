@@ -10,5 +10,5 @@ export default defineConfig({
             }
         }
     },
-    base : "/hadoop_wordcount/"
+    base : "/site_for_hadoop_wordcount/"
 });
